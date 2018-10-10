@@ -1,3 +1,16 @@
+##Personal README
+
+O projeto foi desenvolvido utilizando o `create-react-app`, que instala o básico para começar o desenvolvimento em REACT.
+
+Para rodar, basta executar o comando `npm start` dentro da pasta `my-app`
+
+Apesar de já ter estudado um pouco sobre o framework, nunca havia desenvolvido nada com React, então devem haver alguns problemas com Boas Praticas e Arquitetura
+
+TODO: Tentei otimizar a página para dispositivos móveis colocando um "See more..." para textos grandes, mas não consegui terminar
+
+
+##Official README from create-react-app:
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
