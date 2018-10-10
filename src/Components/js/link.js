@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
-import '../css/link.css';
 
-class Link extends Component {
+class Title extends Component {
   render() {
     return (
       <h4>AnimaVita - Consultas online com animes e mangás</h4>
@@ -9,4 +8,4 @@ class Link extends Component {
   }
 }
 
-export default Link;
+export default Title;
